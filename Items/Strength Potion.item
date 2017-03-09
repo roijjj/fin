@@ -1,0 +1,5 @@
+type=potion
+addAttack=10
+addHealth=0
+addDefense=0
+value=150

@@ -1,0 +1,10 @@
+repr=G
+respawnTime=65
+aiType=chase
+viewRange=4
+maxSpawnDistance=5
+healthMax=300
+attack=20
+defense=24
+exp=100
+money=340

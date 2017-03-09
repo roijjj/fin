@@ -1,0 +1,6 @@
+start=0
+village
+castle
+forest
+dungeon1
+dragonCave
